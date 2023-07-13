@@ -1,6 +1,8 @@
 import React from "react";
 import profilePicture from "../../assets/profile-pic.jpg";
 import styles from "./About.module.css";
+import { faCode } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function About() {
   return (
@@ -19,17 +21,6 @@ function About() {
             <p>
               If I had to describe myself in a sentence, it would be “I create”.
               <br />
-              My pursuit of a Bachelors Degree in Informatics has shown me the
-              many sides of this science, from Web Development, Network
-              Security, Medical Image Visualization to Information Retrieval.
-              The theoretical knowledge I have gathered has been a gateway for
-              me to find my true passion - Front End Development. This has
-              proved to be a premium blend of everything I love to do - being
-              creative, learning and improving myself. My dedication to
-              broadening my horizons often leads me to online learning platforms
-              such as Udemy, edx, Coursera and Udacity, which allow me to
-              improve my knowledge every single day.
-              <br />
               My strong suits include being adaptable, as well as learning both
               new skills and programming languages quickly. I also have a
               practical proficiency in Angular, Java, CSS, HTML, JavaScript,
@@ -39,10 +30,13 @@ function About() {
             </p>
             <div className={styles.techStack}>
               <h3>Tech Stack</h3>
-              <p>
-                React | Angular | TypeScript | JavaScript | HTML | CSS | Cypress
-                | Jest | Java
-              </p>
+              <div className={styles.stackText}>
+                <FontAwesomeIcon icon={faCode} />
+                <p>
+                  React | Angular | TypeScript | JavaScript | HTML | CSS |
+                  Cypress | Jest | Java
+                </p>
+              </div>
             </div>
           </div>
         </div>

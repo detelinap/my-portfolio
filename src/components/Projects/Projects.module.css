@@ -49,13 +49,16 @@
   }
   
   .projectLinks {
+    display: flex;
+    align-items: center;
     margin-top: 20px;
   }
   
   .projectLinks a {
-    margin-right: 10px;
-    color: #333;
-    text-decoration: none;
+    margin-right: 20px;
+    padding-left: 10px;
+    color: #020ab5;
+    text-decoration: underline;
     transition: color 0.3s ease;
   }
   
@@ -63,3 +66,11 @@
     color: #666;
   }
   
+  .technologyStack {
+    display: flex;
+    align-items: center;
+  }
+  
+  .technologyStack p {
+    margin-left: 10px;
+  }

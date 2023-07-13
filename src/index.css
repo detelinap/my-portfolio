@@ -1,1 +1,10 @@
 @import '~@fortawesome/fontawesome-svg-core/styles.css';
+
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700; /* Example for bold style */
+  }

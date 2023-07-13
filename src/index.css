@@ -1,5 +1,14 @@
 @import '~@fortawesome/fontawesome-svg-core/styles.css';
 
+:root {
+  /* CSS HEX */
+  --taupe: #4b4237ff;
+  --goldenrod: #d5a021ff;
+  --alabaster: #ede7d9ff;
+  --taupe-gray: #a49694ff;
+  --dim-gray: #736b60ff;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
   }
@@ -8,3 +17,5 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 700; /* Example for bold style */
   }
+
+  

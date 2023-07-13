@@ -13,7 +13,7 @@ function About() {
             <img
               src={profilePicture}
               alt="Profile"
-              className={styles.profilePicture}
+              className={`${styles.profilePicture} profilePicture`}
             />
           </div>
           <div className={styles.aboutRight}>

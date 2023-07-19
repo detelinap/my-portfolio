@@ -7,15 +7,18 @@
   --alabaster: #ede7d9ff;
   --taupe-gray: #a49694ff;
   --dim-gray: #736b60ff;
+
+  /* Font Sizes */
+  --h2-font-size: 2.6rem;
+  --h3-font-size: 1.4rem;
+  --p-font-size: 1rem;
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
-  }
-  
-  h1 {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700; /* Example for bold style */
-  }
+  font-family: 'Poppins', sans-serif;
+}
 
-  
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700; /* Example for bold style */
+}

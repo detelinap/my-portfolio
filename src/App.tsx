@@ -5,6 +5,7 @@ import Contacts from "./components/Contacts/Contacts";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer/Footer";
 import { Element } from "react-scroll";
+import Volunteering from "./components/Volunteering/Volunteering";
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
         </Element>
         <Element name="projects" className="section">
           <Projects />
+        </Element>
+        <Element name="volunteering" className="section">
+          <Volunteering />
         </Element>
         <Element name="contact" className="section">
           <Contacts />

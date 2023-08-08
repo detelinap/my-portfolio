@@ -1,0 +1,24 @@
+{
+  "about": {
+    "title": "About me",
+    "description": "If I had to describe myself in a sentence, it would be - I create.\nMy strong suits include being adaptable, as well as learning both\nnew skills and programming languages quickly. I also have a\npractical proficiency in Angular, Java, CSS, HTML, JavaScript,\nTypeScript, Git/GitHub. I'm still eagerly looking to expand my\nknowledge in any other programming languages, frameworks, or\nprinciples I can incorporate into what I use every day in my work.",
+    "techStack": "Tech Stack"
+  },
+  "contacts": {
+    "title": " Contacts and social media"
+  },
+  "footer": {
+    "text": " 2023 Detelina Palova. All rights reserved."
+  },
+  "projects": {
+    "title": "Projects",
+    "rentCar": "Rent a car",
+    "rentCarDescription": " A rent a car website that allows the user to choose his vehicle\nand reserve it for a set period of time."
+  },
+  "volunteering":{
+    "title":"Volunteering experience in Alcobendas, Spain",
+    "description":" I was volunteering in a program organized by the Erasmus Solidarity Corpus in a youth house in Alcobendas, near Madrid from November 2022 to the end of July 2023. Every week I organized an informal English language course for young people, assisted teachers at a local university, and facilitated feminist discussions. In addition, my daily routine included helping children with homework and tests, a course for adults to learn English, fun lessons at a local school, and working at a refugee center. My everyday life was colorful, I enriched myself and learned many new things about the world around me. I had three other volunteers with me, from France, Belgium, and Latvia, and thanks to them, I learned collaboration, cultural norms, and language skills. Additionally, I created content to promote the organization's activities and implemented many of my ideas in the context of my daily work. Along with everything I learned through my work duties, I immersed myself day after day in the rich Spanish culture and learned two new languages - Spanish and French.",
+    "article":"Link to news article in hosting organisation's website",
+    "podcast":"Link to podcast episode"
+  }
+}

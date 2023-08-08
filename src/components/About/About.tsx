@@ -3,8 +3,12 @@ import profilePicture from "../../assets/profile-pic.jpg";
 import styles from "./About.module.css";
 import { faCode } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {useTranslation} from "react-i18next";
 
 function About() {
+
+  const {t} = useTranslation('common');
+
   return (
     <section className={styles.about} id="about">
       <div className={styles.container}>
@@ -17,19 +21,16 @@ function About() {
             />
           </div>
           <div className={styles.aboutRight}>
-            <h2>About Me</h2>
+            <h2>{
+            //About me
+            t('about.title')}</h2>
             <p>
-              If I had to describe myself in a sentence, it would be “I create”.
-              <br />
-              My strong suits include being adaptable, as well as learning both
-              new skills and programming languages quickly. I also have a
-              practical proficiency in Angular, Java, CSS, HTML, JavaScript,
-              TypeScript, Git/GitHub. I'm still eagerly looking to expand my
-              knowledge in any other programming languages, frameworks, or
-              principles I can incorporate into what I use every day in my work.
+            {t('about.description')}
             </p>
             <div className={styles.techStack}>
-              <h3>Tech Stack</h3>
+              <h3>
+                {t('about.techStack')}
+                </h3>
               <div className={styles.stackText}>
                 <FontAwesomeIcon icon={faCode} />
                 <p>

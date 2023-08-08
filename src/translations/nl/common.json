@@ -1,0 +1,24 @@
+{
+  "about": {
+    "title": "Over mij",
+    "description": "Als ik mezelf in één zin zou moeten omschrijven, zou het zijn: ik creëer. \nMijn sterke punten zijn aanpassingsvermogen en het snel leren van nieuwe vaardigheden\nen programmeertalen. Ik heb ook werkvaardigheid in Angular, Java, CSS, HTML, JavaScript,\nTypeScript, Git/GitHub. Ik kijk er altijd naar uit om mijn\nkennis in andere programmeertalen, frameworks of\nprincipes uit te breiden die ik kan opnemen in wat ik elke dag in mijn werk gebruik.",
+    "techStack": "Tech Stack"
+  },
+  "contacts": {
+    "title": " Contacten en sociale media"
+  },
+  "footer": {
+    "text": " 2023 Detelina Palova. Alle rechten voorbehouden."
+  },
+  "projects": {
+    "title": "Projecten",
+    "rentCar": "Huur een auto",
+    "rentCarDescription": " Een website voor het huren van een auto waarmee de gebruiker zijn voertuig kan kiezen\nen deze voor een bepaalde periode kan reserveren."
+  },
+  "volunteering": {
+    "title": "Vrijwilligerservaring in Alcobendas, Spanje",
+    "description": " Van november 2022 tot eind juli 2023 deed ik vrijwilligerswerk in een programma georganiseerd door het Erasmus Solidarity Corpus in een jeugdhuis in Alcobendas, nabij Madrid. Elke week organiseerde ik een informele Engelse taalcursus voor jongeren, begeleid leraren aan een plaatselijke universiteit, en het faciliteren van feministische discussies. Daarnaast bestond mijn dagelijkse routine uit het helpen van kinderen met huiswerk en toetsen, een cursus voor volwassenen om Engels te leren, leuke lessen op een plaatselijke school en werken in een vluchtelingencentrum. Mijn dagelijks leven was kleurrijk, ik heb mezelf verrijkt en veel nieuwe dingen geleerd over de wereld om me heen. Ik had drie andere vrijwilligers bij me, uit Frankrijk, België en Letland, en dankzij hen leerde ik samenwerken, culturele normen en taalvaardigheden. Bovendien leerde ik veel nieuwe dingen over de wereld om me heen. , Ik heb inhoud gemaakt om de activiteiten van de organisatie te promoten en veel van mijn ideeën geïmplementeerd in de context van mijn dagelijkse werk. Naast alles wat ik tijdens mijn werk heb geleerd, heb ik mezelf dag in dag uit ondergedompeld in de rijke Spaanse cultuur en heb ik twee nieuwe talen geleerd - Spaans en Frans.",
+    "article": "Link naar nieuwsartikel op de website van de hostingorganisatie",
+    "podcast": "Link naar podcastaflevering"
+  }
+}

@@ -35,3 +35,24 @@
 .navbar-item.active a {
   color: var(--dim-gray);
 }
+
+.language-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-left: 170%;
+}
+
+.language-buttons button {
+  background-color: transparent;
+  border: none;
+  color: var(--alabaster);
+  cursor: pointer;
+  font-size: 14px;
+  transition: color 0.3s ease;
+}
+
+.language-buttons button:hover {
+  color: var(--taupe-gray);
+}

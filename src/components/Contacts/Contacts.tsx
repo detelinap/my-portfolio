@@ -7,14 +7,17 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import styles from "./Contacts.module.css";
+import { useTranslation } from "react-i18next";
 
 function Contact() {
   const emailAddress = "palova.detelina@gmail.com";
+  const {t} = useTranslation('common');
 
   return (
     <section className={styles.contact} id="contact">
       <div className={styles.container}>
-        <h2>Contacts and social media</h2>
+        <h2>
+        {t('contacts.title')}</h2>
         <div className={styles.socialLinks}>
           <a href={`mailto:${emailAddress}`} className={styles.socialLink}>
             <FontAwesomeIcon icon={faEnvelope} className={styles.icon} />

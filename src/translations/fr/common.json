@@ -1,0 +1,24 @@
+{
+  "about": {
+    "title": "Sur moi",
+    "description": "Si je devais me décrire en une phrase, ce serait - Je crée.\nMes points forts incluent l'adaptabilité, ainsi que l'apprentissage rapide de\nnouvelles compétences et de nouveaux langages de programmation. J'ai également une\ncompétence pratique en Angular, Java, CSS, HTML, JavaScript,\nTypeScript, Git/GitHub. Je cherche toujours avec impatience à étendre mes\nconnaissances dans d'autres langages de programmation, frameworks ou\nprincipes que je peux intégrer dans ce que j'utilise tous les jours dans mon travail.",
+    "techStack": "Tech Stack"
+  },
+  "contacts": {
+    "title": "Contacts et médias sociaux"
+  },
+  "footer": {
+    "text": " 2023 Detelina Palova.Tous droits réservés."
+  },
+  "projects": {
+    "title": "Projets",
+    "rentCar": "Louer une voiture",
+    "rentCarDescription": " Un site de location de voitures qui permet à l'utilisateur de choisir son véhicule\net de le réserver pour une durée déterminée."
+  },
+  "volunteering": {
+    "title": "Expérience de volontariat à Alcobendas, Espagne",
+    "description": "J'étais bénévole dans un programme organisé par le Corpus Erasmus Solidarité dans une maison de jeunes à Alcobendas, près de Madrid, de novembre 2022 à fin juillet 2023. Chaque semaine, j'organisais un cours d'anglais informel pour les jeunes, assisté professeurs dans une université locale et animé des discussions féministes. De plus, ma routine quotidienne comprenait l'aide aux enfants pour les devoirs et les tests, un cours pour adultes pour apprendre l'anglais, des leçons amusantes dans une école locale et le travail dans un centre de réfugiés. Ma vie quotidienne était coloré, je me suis enrichi et j'ai appris beaucoup de nouvelles choses sur le monde qui m'entoure. J'étais accompagné de trois autres volontaires, de France, de Belgique et de Lettonie, et grâce à eux, j'ai appris la collaboration, les normes culturelles et les compétences linguistiques. De plus , J'ai créé du contenu pour promouvoir les activités de l'organisation et mis en œuvre bon nombre de mes idées dans le cadre de mon travail quotidien. Parallèlement à tout ce que j'ai appris dans le cadre de mes fonctions professionnelles, je me suis immergé jour après jour dans la riche culture espagnole et j'ai appris deux nouvelles langues - espagnol et français.",
+    "article": "Lien vers l'article d'actualité sur le site Web de l'organisation hôte",
+    "podcast": "Lien vers l'épisode du podcast"
+  }
+}

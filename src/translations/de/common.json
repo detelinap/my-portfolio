@@ -1,0 +1,24 @@
+{
+  "about": {
+    "title": "Über mich",
+    "description": "Wenn ich mich selbst in einem Satz beschreiben müsste, wäre das: Ich erschaffe.\nZu meinen Stärken gehört es, anpassungsfähig zu sein und sowohl neue Fähigkeiten als auch Programmiersprachen schnell zu erlernen. Außerdem verfüge ich über praktische Kenntnisse in Angular, Java, CSS, HTML, JavaScript,\nTypeScript, Git/GitHub. Ich bin immer noch gespannt darauf, meine\nKenntnisse in anderen Programmiersprachen, Frameworks oder\nPrinzipien zu erweitern, die ich in das integrieren kann, was ich täglich bei meiner Arbeit verwende.",
+    "techStack": "Tech Stack"
+  },
+  "contacts": {
+    "title": " Kontakte und soziale Medien"
+  },
+  "footer": {
+    "text": " 2023 Detelina Palova. Alle Rechte vorbehalten."
+  },
+  "projects": {
+    "title": "Projekte",
+    "rentCar": "Auto mieten",
+    "rentCarDescription": " Eine Website zur Autovermietung, auf der der Benutzer sein Fahrzeug auswählen und für einen bestimmten Zeitraum reservieren kann."
+  },
+  "volunteering": {
+    "title": "Freiwilligenerfahrung in Alcobendas, Spanien",
+    "description": " Von November 2022 bis Ende Juli 2023 habe ich in einem vom Erasmus Solidarity Corpus organisierten Programm in einem Jugendhaus in Alcobendas, in der Nähe von Madrid, ehrenamtlich gearbeitet. Jede Woche habe ich einen informellen Englisch-Sprachkurs für junge Menschen organisiert und unterstützt.“ Ich war Lehrerin an einer örtlichen Universität und moderierte feministische Diskussionen. Darüber hinaus gehörte es zu meinem Tagesablauf, Kindern bei Hausaufgaben und Prüfungen zu helfen, einen Englischkurs für Erwachsene zu besuchen, unterhaltsamen Unterricht an einer örtlichen Schule zu geben und in einem Flüchtlingszentrum zu arbeiten. Mein Alltag Es war bunt, ich habe mich bereichert und viele neue Dinge über die Welt um mich herum gelernt. Ich hatte drei weitere Freiwillige aus Frankreich, Belgien und Lettland dabei und dank ihnen habe ich Zusammenarbeit, kulturelle Normen und Sprachkenntnisse gelernt. Darüber hinaus Ich habe Inhalte erstellt, um die Aktivitäten der Organisation zu fördern, und viele meiner Ideen im Kontext meiner täglichen Arbeit umgesetzt. Neben allem, was ich durch meine beruflichen Pflichten gelernt habe, bin ich Tag für Tag in die reiche spanische Kultur eingetaucht und habe zwei neue Sprachen gelernt: Spanisch und Französisch",
+    "article": "Link zum Nachrichtenartikel auf der Website der Hosting-Organisation",
+    "podcast": "Link zur Podcast-Episode"
+  }
+}

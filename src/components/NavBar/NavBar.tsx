@@ -46,6 +46,21 @@ function NavBar() {
         </li>
         <li
           className={`${styles["navbar-item"]} ${
+            activeSection === "volunteering" ? styles.active : ""
+          }`}
+        >
+          <Link
+            to="volunteering"
+            spy={true}
+            smooth={true}
+            duration={500}
+            onSetActive={() => handleSetActive("volunteering")}
+          >
+            Volunteering
+          </Link>
+        </li>
+        <li
+          className={`${styles["navbar-item"]} ${
             activeSection === "contact" ? styles.active : ""
           }`}
         >
